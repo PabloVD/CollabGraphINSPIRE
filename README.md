@@ -6,4 +6,4 @@ Scrape publication data from [INSPIRE-HEP](https://inspirehep.net/) to create a 
 
 Read more about the INSPIRE API [here](https://github.com/inspirehep/rest-api-doc).
 
-<img src="EinsteinGraph.png" width="500">
+<img src="EinsteinGraph.png" width="700">
